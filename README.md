@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @trashatoo
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning js
+- 💞️ I’m looking to collaborate on nothing XD
+- 📫 How to reach me eamil me at trashatoowastaken@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: im double jointed in all my fingers

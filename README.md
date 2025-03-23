@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @trashatoo
 - 👀 I’m interested in web development
-- 🌱 I’m currently backend web development
+- 🌱 I’m currently learning backend web development
 - 💞️ I’m looking to collaborate on my spotify cli scipt repo
-- 📫 How to reach me eamil me at 404nohopefound@gmail.com
+- 📫 How to reach me email me at 404nohopefound@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: im double jointed in all my fingers
